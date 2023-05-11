@@ -186,12 +186,11 @@ section .title::after{
 .home .home-content .text-2{
     font-size: 75px;
     font-weight: 600;
-    transition: color 2s;
+    transition: color 1s;
     margin-left: -3px;
 }
 .home .home-content .text-2:hover{
     color:crimson;
-    background: #fff;
     
 }
 .home .home-content .text-3{
