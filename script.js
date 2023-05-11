@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: [ "Developer",  "Designer", "NFT Maker", "NFT Designer"],
+        strings: [ "Web Developer",  "Web Designer", "Student", "NFT Designer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: [ "Developer",  "Designer", "NFT Maker", "NFT Designer"],
+        strings: [ "Web Developer",  "Web Designer", "Student", "NFT Designer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
